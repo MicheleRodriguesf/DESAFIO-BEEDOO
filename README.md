@@ -7,9 +7,9 @@
  > - [Evidência dos casos de teste](#evidências-dos-casos-de-teste)
 
 ## Users Story
-### Como foram as decisões tomadas para criar users story? 
+### Como foram as decisões tomadas para criar os users story? 
 
-> As decisões para criar os users Stories para o sistema de cadastro e exclusão de cursos foi tomada com base na análise , necessidades dos usuários e das funcionalidades que já existia no sistema. Primeiro identifiquei funcionalidades que não existia e então implementei no users story, como por exemplo: login e senha para ter acesso no sistema e assim ter uma segurança maior, também defini as funcionalidades chave, como o cadastro e a exclusão de cursos, e estabeleci critérios de aceitação claros para garantir que cada User Story atendesse às expectativas dos usuários e aos requisitos do sistema.
+> As decisões para criar os users stories para o sistema de cadastro e exclusão de cursos foi tomada com base na análise , necessidades dos usuários e das funcionalidades que já existia no sistema. Primeiro identifiquei funcionalidades que não existia e então implementei no users story, como por exemplo: login e senha para ter acesso no sistema e assim ter uma segurança maior, também defini as funcionalidades chave, como o cadastro e a exclusão de cursos, e estabeleci critérios de aceitação claros para garantir que cada User Story atendesse às expectativas dos usuários e aos requisitos do sistema.
 
 | Cadastrar Curso |  |
 | ----------- | ----------- |
