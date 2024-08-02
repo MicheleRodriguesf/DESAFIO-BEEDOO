@@ -9,54 +9,49 @@
 ## Users Story
 ### Como foram as decisões tomadas para criar os users story? 
 
-> As decisões para criar os users stories para o sistema de cadastro e exclusão de cursos foi tomada com base na análise , necessidades dos usuários e das funcionalidades que já existia no sistema. Primeiro identifiquei funcionalidades que não existia e então implementei no users story, como por exemplo: login e senha para ter acesso no sistema e assim ter uma segurança maior, também defini as funcionalidades chave, como o cadastro e a exclusão de cursos, e estabeleci critérios de aceitação claros para garantir que cada User Story atendesse às expectativas dos usuários e aos requisitos do sistema.
+> As decisões para criar os users stories para o sistema de cadastro e exclusão de cursos foi tomada com base na análise , necessidades dos usuários e das funcionalidades que já existia no sistema. Primeiro identifiquei funcionalidades que não existiam e então implementei no users story, como por exemplo: login e senha para ter acesso ao sistema e assim ter uma segurança maior. Também defini as funcionalidades chave, como o cadastro e a exclusão de cursos, e estabeleci critérios de aceitação claros para garantir que cada User Story atendesse às expectativas dos usuários e aos requisitos do sistema.
 
 | Cadastrar Curso |  |
 | ----------- | ----------- |
 | **COMO UM:** | Instrutor de cursos |
 | **EU DEVO:** | Cadastrar um curso com sucesso |
-| **PARA QUE:** | eu possa oferecer novos conteúdos de aprendizado aos meus alunos |
-
-
-| Apagar Curso |  |
-| ----------- | ----------- |
-| **COMO UM:** | Instrutor de cursos |
-| **EU DEVO:** | Apagar um curso criado com sucesso |
-| **PARA QUE:** | eu possa remover cursos obsoletos ou indesejados da plataforma e manter o catálogo de cursos atualizado. |
-
-
-| Autenticação |  |
-| ----------- | ----------- |
-| **COMO UM:** | Instrutor de cursos |
-| **EU DEVO:** | ter um login e senha |
-| **PARA QUE:** | Somente pessoas autorizadas possam criar e apagar seus respectivos cursos |
-
+| **PARA QUE:** | eu possa oferecer novos conteúdos de aprendizado aos meus alunos. |
 
 | Tooltip: Cadastro de curso |  |
 | ----------- | ----------- |
 | **COMO UM:** | Instrutor de cursos |
 | **EU DEVO:** | receber uma confirmação visível de que o meu curso foi criado com sucesso |
-| **PARA QUE:** | eu possa ter a certeza de que o curso foi adicionado corretamente ao sistema e esteja disponível |
+| **PARA QUE:** | eu possa ter a certeza de que o curso foi adicionado corretamente ao sistema e esteja disponível. |
 
+| Apagar Curso |  |
+| ----------- | ----------- |
+| **COMO UM:** | Instrutor de cursos |
+| **EU DEVO:** | Apagar um curso com sucesso |
+| **PARA QUE:** | eu possa remover cursos obsoletos ou indesejados da plataforma e manter o catálogo de cursos atualizado. |
 
 | Tooltip: Deleção de curso |  |
 | ----------- | ----------- |
 | **COMO UM:** | Instrutor de cursos |
 | **EU DEVO:** | Receber uma confirmação visível de que o meu curso foi apagado com sucesso |
-| **PARA QUE:** | eu possa ter a certeza de que o meu curso foi apagado e ninguém tenha acesso |
+| **PARA QUE:** | eu possa ter a certeza de que o meu curso foi apagado e ninguém tenha acesso. |
+
+| Autenticação |  |
+| ----------- | ----------- |
+| **COMO UM:** | Instrutor de cursos |
+| **EU DEVO:** | ter um login e senha |
+| **PARA QUE:** | Somente pessoas autorizadas possam criar, apagar e editar seus respectivos cursos. |
 
 | Listar cursos |  |
 | ----------- | ----------- |
 | **COMO UM:** | Instrutor de cursos |
-| **EU DEVO:** | Listar os os cursos que eu cadastrei |
+| **EU DEVO:** | Listar os cursos que eu cadastrei |
 | **PARA QUE:** |  Eu visualize os cursos que eu criei |
-
 
 | Editar cursos |  |
 | ----------- | ----------- |
 | **COMO UM:** | Instrutor de cursos |
 | **EU DEVO:** | Editar os meus cursos |
-| **PARA QUE:** |  Caso eu tenha feito algo errado ou eu possa adicionar outra informação eu assim consiga |
+| **PARA QUE:** |  Eu consiga modificar informações do curso com sucesso.|
 
 
 ---
